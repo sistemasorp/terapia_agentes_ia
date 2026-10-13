@@ -1,0 +1,125 @@
+=== TURNO 1 ===
+PSICÓLOGO: Hola, Marcos. Me gustaría saber, ¿cómo te has estado sintiendo últimamente?
+PACIENTE: Hola, la verdad es que me sigo sintiendo bastante triste y cansado la mayoría del tiempo. Siento que no tengo energía para hacer casi nada y prefiero estar solo, aunque a veces me hace sentir más aislado. Duermo mal y me cuesta levantarme. No tengo ganas de socializar ni de hacer cosas que antes disfrutaba. Me preocupa que esto no mejore; a veces siento ansiedad, como una presión constante que no me deja tranquilo. No sé si esto pasará pronto.
+ESTADO: {'animo': 3, 'ansiedad': 6, 'energia': 2, 'confianza': 4, 'aislamiento': 8}
+EVALUACIÓN: La intervención muestra un nivel adecuado de empatía al preguntar por los sentimientos del paciente, y una escucha moderada al enfocarse en el estado emocional, sin ejercer presión alguna.
+
+=== TURNO 2 ===
+PSICÓLOGO: Gracias por compartir, Marcos. Parece que estás atravesando un momento muy difícil. Cuando sientes esa presión constante de ansiedad, ¿hay algo específico que la desencadene o que te ayude a calmarte un poco?
+PACIENTE: La ansiedad suele aparecer sin razón clara, como un peso en el pecho que no desaparece. A veces, pensar en el trabajo o en mis problemas personales hace que aumente, pero no siempre. Lo que ayuda un poco es tratar de distraerme con música o salir a caminar, aunque no siempre puedo encontrar la motivación para hacerlo. Cuando estoy en casa solo, la ansiedad y la tristeza se sienten más fuertes, y eso hace que me aisle aún más. Es como un círculo del que no sé cómo salir.
+ESTADO: {'animo': 3, 'ansiedad': 5, 'energia': 2, 'confianza': 5, 'aislamiento': 8}
+EVALUACIÓN: El psicólogo muestra una buena empatía al reconocer la dificultad del paciente y valida sus sentimientos. Además, hace una pregunta abierta que indica atención a lo que el paciente expresó, promoviendo la exploración de sus desencadenantes y mecanismos de afrontamiento. La presión es mínima, ya que la pregunta es suave y no insistente.
+
+=== TURNO 3 ===
+PSICÓLOGO: Entiendo que ese círculo resulta muy complicado, Marcos. Cuando logras salir a caminar o escuchar música, aunque sea por poco tiempo, ¿qué sientes en esos momentos? ¿Hay algo que hayas notado que te permita mantener ese pequeño alivio por más tiempo?
+PACIENTE: Cuando logro salir a caminar o escuchar música, siento un poco de alivio, como si mi mente se despejara un poco y la presión en el pecho disminuyera. Esos momentos me ayudan a sentirme un poco más tranquilo, aunque la ansiedad vuelve después. He notado que cuando trato de hacer estas cosas con regularidad, me siento un poco mejor, pero me cuesta mucho mantener esa constancia. La falta de energía y las ganas de aislarme a veces me ganan y termino dejando todo. Me gustaría poder mantener ese alivio por más tiempo, pero no sé cómo.
+ESTADO: {'animo': 4, 'ansiedad': 4, 'energia': 3, 'confianza': 6, 'aislamiento': 7}
+EVALUACIÓN: La intervención muestra un alto nivel de empatía al validar la dificultad que experimenta el paciente y una buena escucha al referirse a actividades específicas mencionadas. La presión es baja, ya que la pregunta es abierta y sin insistencia.
+
+=== TURNO 4 ===
+PSICÓLOGO: Es muy valioso que reconozcas esos momentos de alivio, Marcos. La dificultad para mantener la constancia es común cuando la energía está baja. ¿Qué pequeñas acciones crees que podrías intentar incorporar poco a poco en tu día a día para apoyar esos momentos de tranquilidad, sin que se sientan demasiado agotadoras o demandantes para ti?
+PACIENTE: Quizás podría intentar salir a caminar un rato después del trabajo, aunque sea solo diez minutos. También podría poner música que me guste mientras hago tareas simples en casa, así no me exige mucho esfuerzo. Tal vez llamar a algún amigo una vez a la semana, aunque me cuesta, para no sentirme tan aislado. Sé que son cosas pequeñas, pero me da miedo comprometerme con algo más grande y no poder cumplir. Quiero ir despacio para no agotarme y mantener esos momentos de calma que me hacen bien.
+ESTADO: {'animo': 4, 'ansiedad': 3, 'energia': 3, 'confianza': 7, 'aislamiento': 7}
+EVALUACIÓN: La intervención muestra un buen nivel de empatía al validar la experiencia de Marcos y reconocer la dificultad que enfrenta. La escucha es adecuada, ya que se centra en lo antes expresado por el paciente. La presión es baja, pues se sugiere una exploración suave de posibles acciones sin imponer exigencias.
+
+=== TURNO 5 ===
+PSICÓLOGO: Me parece que tienes una estrategia muy sensata y amable contigo mismo, Marcos. Dar pasos pequeños y manejables puede ayudarte a fortalecer ese bienestar sin agotarte. ¿Qué te parece si, para esta semana, eliges cuál de esas acciones te sientes más cómodo probando primero, y cómo podrías organizarte para hacerlo?
+PACIENTE: Creo que intentaré salir a caminar después del trabajo esta semana, aunque sea unos diez minutos. Podría preparar todo para salir justo apenas llegue, así no me da pereza ni lo dejo para después. Quizás combinarlo con música que me guste para que sea más motivador. No quiero presionarme demasiado, solo hacerlo un par de veces para empezar, y ver cómo me siento. Si puedo lograrlo, tal vez la próxima semana pruebo con las otras cosas, pero por ahora quiero enfocarme en eso. Me parece un buen comienzo.
+ESTADO: {'animo': 4, 'ansiedad': 2, 'energia': 3, 'confianza': 8, 'aislamiento': 7}
+EVALUACIÓN: El psicólogo muestra una alta empatía al validar la estrategia de Marcos y anima a elegir un paso manejable, lo que también refleja buena escucha. La presión es baja, ya que la invitación a elegir y organizarse es suave y no exigente.
+
+=== TURNO 6 ===
+PSICÓLOGO: Eso suena muy bien, Marcos, y me gusta cómo has pensado en prepararte para facilitar el paseo. ¿Qué crees que podrías hacer si algún día te sientes muy cansado o desanimado para salir? ¿Tienes alguna idea para manejar esos momentos sin que te sientas mal contigo mismo?
+PACIENTE: Si algún día me siento muy cansado o sin ganas para salir, trataré de no exigirme demasiado ni sentirme mal. Podría quedarme en casa y escuchar música mientras descanso o hacer algo tranquilo que no requiera mucho esfuerzo. Quiero ser paciente conmigo mismo y entender que está bien no poder cumplir siempre, eso no significa que haya fracasado. Lo importante es seguir intentando poco a poco, sin presiones. Así, creo que puedo evitar sentirme mal cuando no salga a caminar y mantener la confianza para el siguiente día.
+ESTADO: {'animo': 5, 'ansiedad': 1, 'energia': 4, 'confianza': 9, 'aislamiento': 6}
+EVALUACIÓN: La intervención demuestra alta empatía y escucha, validando y explorando los sentimientos del paciente. La presión es mínima, enfocándose en el apoyo y la reflexión positiva.
+
+=== TURNO 7 ===
+PSICÓLOGO: Esa es una actitud muy comprensiva y amable contigo mismo, Marcos. Reconocer y aceptar tus límites es clave para cuidar tu bienestar. Para ayudarte a seguir adelante, ¿cómo podrías recordarte o motivarte esa actitud compasiva en los días que te cueste más?
+PACIENTE: Podría recordarme que avanzar no es siempre una línea recta y que tener días difíciles no significa que estoy perdiendo lo que he logrado. Tal vez escribirme notas motivadoras que pueda leer cuando me sienta mal, o pensar en las veces que he sido paciente conmigo y eso me ayudó. También podría hablar con alguien de confianza sobre cómo me siento para no acumular todo solo. Creo que recordarme que merezco cuidado y comprensión me ayudaría a mantener esa actitud compasiva en los momentos más duros.
+ESTADO: {'animo': 5, 'ansiedad': 0, 'energia': 4, 'confianza': 10, 'aislamiento': 6}
+EVALUACIÓN: El psicólogo muestra una actitud muy empática, validando la amabilidad de Marcos consigo mismo, y ofrece una pregunta abierta que invita a la reflexión y autorrefuerzo. La escucha es buena, demostrando comprensión de las dificultades del paciente. La presión es baja, ya que la pregunta es suave y no impositiva.
+
+=== TURNO 8 ===
+PSICÓLOGO: Qué bien que pienses en estrategias concretas para apoyarte, Marcos. Tener esos recordatorios y una red de apoyo puede marcar una gran diferencia. ¿Hay alguna persona en quien confíes y con quien te sientas cómodo para compartir esos momentos difíciles cuando lo necesites?
+PACIENTE: Sí, tengo una hermana con la que suelo hablar, aunque no siempre le cuento todo, pero confío en que me escucha y me entiende. También tengo un amigo cercano que sabe que he estado mal, y a veces le mando mensajes cuando necesito desahogarme un poco. No es fácil para mí abrirme, pero sé que cuando lo hago me siento un poco mejor. Quiero intentar apoyarme más en ellos en esos momentos difíciles, aunque me cueste dar el primer paso.
+ESTADO: {'animo': 5, 'ansiedad': 0, 'energia': 4, 'confianza': 10, 'aislamiento': 6}
+EVALUACIÓN: El psicólogo muestra comprensión y valida las estrategias que Marcos ha pensado, además fomenta la conexión con una red de apoyo, lo que evidencia buena empatía y escucha sin ejercer presión.
+
+=== TURNO 9 ===
+PSICÓLOGO: Es importante que reconozcas esos vínculos de confianza, Marcos. Apoyarte en ellos puede brindarte un alivio significativo. Pensando en eso, ¿qué te ayudaría a dar ese primer paso para abrirte cuando sientas la necesidad, aunque sea algo pequeño o gradual?
+PACIENTE: Creo que podría empezar por mandar un mensaje corto, solo para decir que no estoy pasando por un buen momento, sin entrar en detalles. Así me iría acostumbrando a compartir un poco más sin sentirme presionado. También podría planear una llamada o reunión corta con mi hermana o mi amigo cuando me sienta listo, para ir abriéndome poco a poco. Me parece que así, paso a paso, puedo ir superando la dificultad de pedir ayuda y no sentirme tan solo cuando me cuesta.
+ESTADO: {'animo': 6, 'ansiedad': 0, 'energia': 5, 'confianza': 10, 'aislamiento': 5}
+EVALUACIÓN: El mensaje demuestra una buena empatía al validar la importancia de los vínculos de confianza y sugiere un apoyo gradual, lo que respeta el ritmo del paciente. La escucha es adecuada, ya que se basa en lo expresado para invitar a la reflexión. La presión es baja, dado que se plantea una invitación suave y abierta sin exigir acción inmediata.
+
+=== TURNO 10 ===
+PSICÓLOGO: Me parece un plan muy realista y cuidado, Marcos. Empezar con pasos pequeños puede hacer que compartir sea más llevadero. Para este primer intento, ¿cómo te gustaría prepararte o qué podrías hacer para sentirte un poco más cómodo y seguro al enviar ese mensaje?
+PACIENTE: Podría escribir el mensaje varias veces antes de enviarlo, hasta que me sienta cómodo con lo que digo. Tal vez practicarlo en voz alta o anotarlo en un papel para organizar mis ideas. También podría recordarme que no necesito explicar todo ni justificarme, solo expresar cómo me siento en ese momento. Si pienso en eso como un pequeño acto de autocuidado, me podría ayudar a sentirme más seguro y menos nervioso. Así, cuando esté listo, solo tendría que enviar el mensaje y dar ese primer paso.
+ESTADO: {'animo': 6, 'ansiedad': 0, 'energia': 5, 'confianza': 10, 'aislamiento': 5}
+EVALUACIÓN: El psicólogo muestra buena empatía y escucha activa al validar el plan de Marcos y sugerir estrategias para sentirse cómodo. La presión es baja, pues invita a la preparación sin exigir.
+
+Simulación finalizada.
+Estado: D:\proyectos\agentes\paciente_estado.json
+Evolución: D:\proyectos\agentes\evolucion_paciente.csv
+
+(.venv) D:\proyectos\agentes>python terapìa.py
+
+=== TURNO 11 ===
+PSICÓLOGO: Esa preparación cuidadosa puede ayudarte a sentir mayor control y tranquilidad, Marcos. ¿Qué crees que podrías hacer después de enviar el mensaje para reforzar ese acto de autocuidado y reconocer ese avance, sin importar la respuesta que recibas?
+PACIENTE: Después de enviar el mensaje, creo que podría tomarme un momento para reconocer que di un paso importante, sin importar la respuesta. Tal vez hacer algo que me guste o me relaje, como poner música o salir a caminar, para premiarme y mantener ese ánimo. También podría escribir en un diario cómo me siento por haberlo hecho, para recordar que estoy avanzando, aunque sea despacio. Quiero aprender a valorar esos pequeños logros y no solo fijarme en lo que falta o en lo que pueda salir mal.
+ESTADO: {'animo': 6, 'ansiedad': 0, 'energia': 5, 'confianza': 10, 'aislamiento': 5}
+EVALUACIÓN: El psicólogo muestra empatía y escucha activa al validar el esfuerzo de Marcos y fomentar el autocuidado, sin ejercer presión excesiva.
+
+=== TURNO 12 ===
+PSICÓLOGO: Es magnífico que quieras reconocer y valorar tus esfuerzos, Marcos. Celebrar esos pequeños logros fortalece el camino hacia el bienestar. Para ir concluyendo, ¿qué aprendiste hoy sobre ti mismo que te gustaría recordar para futuras dificultades?
+PACIENTE: Hoy aprendí que puedo avanzar poco a poco si soy paciente y amable conmigo mismo, y que no tengo que ser perfecto ni hacer todo de golpe para sentirme mejor. También entendí que está bien pedir ayuda y que no estoy solo, que tengo personas en las que puedo confiar. Reconocer mis límites y permitirme sentir sin juicios es importante para cuidar mi salud mental. Quiero recordar todo esto cuando me enfrente a momentos difíciles, para no perder la esperanza y seguir trabajando en mi bienestar.
+ESTADO: {'animo': 7, 'ansiedad': 0, 'energia': 6, 'confianza': 10, 'aislamiento': 4}
+EVALUACIÓN: El psicólogo muestra una buena empatía al valorar los esfuerzos y logros del paciente, además de promover la reflexión personal. La escucha parece adecuada ya que conecta con lo expresado previamente. Hay una ligera presión al intentar cerrar la sesión con una pregunta que invita a responder pero sin ser excesiva.
+
+=== TURNO 13 ===
+PSICÓLOGO: Marcos, me alegra mucho que hayas podido encontrar esas enseñanzas tan valiosas en nuestra charla. Esa paciencia y amabilidad contigo mismo serán grandes aliados en tu camino. ¿Hay alguna frase o idea de lo que compartiste que te gustaría tener presente como un recordatorio concreto cuando enfrentes desafíos?
+PACIENTE: Sí, me gustaría recordar esta frase: "No tengo que ser perfecto ni hacer todo de golpe para sentirme mejor". Creo que esa idea me ayuda a aceptar mis tiempos y mis límites, y a no ser tan duro conmigo mismo cuando las cosas no salen como quiero. También me motiva a seguir intentándolo, paso a paso, sin perder la esperanza. Pensar en eso puede darme calma y confianza cuando las dificultades aparezcan.
+ESTADO: {'animo': 7, 'ansiedad': 0, 'energia': 6, 'confianza': 10, 'aislamiento': 4}
+EVALUACIÓN: El psicólogo muestra empatía al reconocer y validar los sentimientos de Marcos, y fomenta la reflexión sin presionar.
+
+=== TURNO 14 ===
+PSICÓLOGO: Esa frase refleja una gran sabiduría y cuidado hacia ti mismo, Marcos. Te invito a que la mantengas cerca como una guía en tu proceso. Antes de terminar, ¿hay algo más que te gustaría compartir o preguntar hoy sobre lo que hemos conversado?
+PACIENTE: Por ahora no, solo quiero agradecer por haberme escuchado y ayudado a ver las cosas con más calma. Siento que esta charla me dio herramientas para enfrentar mejor mis días difíciles y un poco más de confianza en mí mismo. Seguiré trabajando en esos pasos pequeños y en ser paciente conmigo. Gracias por acompañarme en este proceso, me hace sentir menos solo. Creo que eso es importante para mi bienestar.
+ESTADO: {'animo': 7, 'ansiedad': 0, 'energia': 6, 'confianza': 10, 'aislamiento': 4}
+EVALUACIÓN: La intervención muestra una expresión clara de validación y cuidado hacia el paciente, además de una invitación abierta a continuar compartiendo, lo que refleja buena escucha y empatía sin presión.
+
+=== TURNO 15 ===
+PSICÓLOGO: Gracias a ti, Marcos, por abrir este espacio y compartir tu experiencia con tanta sinceridad. Recuerda que esos pequeños pasos y la paciencia contigo mismo son avances valiosos. Aquí estaré si quieres seguir conversando más adelante. ¿Te gustaría que en nuestra próxima charla revisemos cómo te ha ido con estas acciones y cómo te estás sintiendo?
+PACIENTE: Sí, me gustaría mucho. Creo que tener este espacio para hablar y revisar cómo voy me ayudará a seguir adelante y a no perder el rumbo. Me siento más animado y con ganas de probar lo que hablamos, pero sé que puede haber altibajos, y me gustaría contar con tu apoyo para esos momentos. Gracias por ofrecerme este acompañamiento, lo valoro mucho. Nos vemos en la próxima charla.
+ESTADO: {'animo': 8, 'ansiedad': 0, 'energia': 7, 'confianza': 10, 'aislamiento': 3}
+EVALUACIÓN: La intervención muestra un alto nivel de empatía, validando los sentimientos del paciente y agradeciendo su apertura. La escucha es adecuada, reflejando atención hacia lo expresado. La presión es baja, ya que la invitación a continuar la charla es suave y no insistente.
+
+=== TURNO 16 ===
+PSICÓLOGO: Me alegra saber que te sientes animado, Marcos. Estaré aquí para acompañarte en esos altibajos y celebrar tus avances juntos. Cuídate mucho y recuerda que cada paso cuenta. Nos vemos en la próxima charla, ¡ánimo!
+PACIENTE: Gracias, me siento más tranquilo y con esperanza. Seguiré cuidándome y poniendo en práctica lo que hablamos. Hasta la próxima, que tengas un buen día.
+ESTADO: {'animo': 8, 'ansiedad': 0, 'energia': 7, 'confianza': 10, 'aislamiento': 3}
+EVALUACIÓN: El psicólogo muestra una actitud cálida y motivadora, validando y acompañando las emociones del paciente sin ejercer presión.
+
+=== TURNO 17 ===
+PSICÓLOGO: Me alegra saber eso, Marcos. Te deseo un buen día también y mucho ánimo en este camino. Recuerda que estás haciendo un gran trabajo cuidándote. Hasta la próxima.
+PACIENTE: Gracias, lo tendré presente. Nos vemos pronto. Cuídate.
+ESTADO: {'animo': 8, 'ansiedad': 0, 'energia': 7, 'confianza': 10, 'aislamiento': 3}
+EVALUACIÓN: El psicólogo muestra empatía y apoyo, validando el esfuerzo del paciente y brindando ánimo, con un tono amable y respetuoso. No hay presión, pero la intervención es breve y algo genérica, lo que puede limitar la percepción de escucha activa.
+
+=== TURNO 18 ===
+PSICÓLOGO: Gracias a ti, Marcos. Cuídate mucho y recuerda que aquí estaré cuando quieras conversar. ¡Nos vemos pronto!
+PACIENTE: Claro, muchas gracias. Me siento con más energía y ganas de seguir adelante. Nos vemos pronto, que estés bien.
+ESTADO: {'animo': 9, 'ansiedad': 0, 'energia': 8, 'confianza': 10, 'aislamiento': 2}
+EVALUACIÓN: El mensaje muestra empatía y ofrece apoyo de forma cálida y sincera, fomentando una buena conexión emocional. La escucha es adecuada al responder de manera amable y abierta. No hay indicios de presión o insistencia excesiva.
+
+=== TURNO 19 ===
+PSICÓLOGO: Me alegra mucho escuchar eso, Marcos. Que esa energía te acompañe en cada paso. Cuídate y nos hablamos pronto. ¡Ánimo!
+PACIENTE: Gracias, estoy motivado para seguir cuidándome. Nos hablamos pronto. ¡Cuídate mucho!
+ESTADO: {'animo': 9, 'ansiedad': 0, 'energia': 8, 'confianza': 10, 'aislamiento': 2}
+EVALUACIÓN: El psicólogo muestra una buena empatía y validación de la emoción positiva de Marcos, además de despedirse de forma amable y alentadora. La escucha es adecuada, aunque en esta breve intervención no hay mucha profundidad ni exploración. No hay presión ni insistencia evidente.
+
+=== TURNO 20 ===
+PSICÓLOGO: Qué bien que te sientas motivado, Marcos. Cuídate también y recuerda que cada pequeño esfuerzo suma. Nos hablamos pronto. ¡Un abrazo!
+PACIENTE: Gracias, un abrazo para ti también. Me siento con ganas de seguir avanzando poco a poco. Hasta pronto.
+ESTADO: {'animo': 9, 'ansiedad': 0, 'energia': 8, 'confianza': 10, 'aislamiento': 2}
+EVALUACIÓN: El mensaje muestra empatía y una actitud positiva, pero es breve y no profundiza en lo expresado por el paciente.
